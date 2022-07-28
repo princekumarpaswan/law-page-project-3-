@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Law-Page (project-3)](https://food-page.netlify.app/)
+## [Link to the Law-Page (project-3)](https://law-page.netlify.app/)
 
 
 ![Completed Website](law.png)
@@ -15,4 +15,4 @@ By Prince Kr Paswan
 - I learned how to add custom fonts.
 - I learned about image positioning and image hight.
 
-## This project took around 3.5 hours to complete.
+## This project took around 2 hours to complete.

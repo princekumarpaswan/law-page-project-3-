@@ -59,7 +59,7 @@ header ul li{
 }
 section{
     display: flex;
-    margin-left: 400px;
+    margin-left: 100px;
     margin-top: 200px;
     justify-content: left;
 }
